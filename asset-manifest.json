@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-ishop/static/css/main.41731703.css",
+    "main.js": "/react-ishop/static/js/main.d48cdffd.js",
+    "Cart.js": "/react-ishop/static/js/Cart.2b4b1d0e.chunk.js",
+    "FullItem.js": "/react-ishop/static/js/FullItem.05d302c6.chunk.js",
+    "static/css/683.51be6543.chunk.css": "/react-ishop/static/css/683.51be6543.chunk.css",
+    "static/media/empty-cart.png": "/react-ishop/static/media/empty-cart.db905d1f4b063162f25b.png",
+    "index.html": "/react-ishop/index.html",
+    "main.41731703.css.map": "/react-ishop/static/css/main.41731703.css.map",
+    "main.d48cdffd.js.map": "/react-ishop/static/js/main.d48cdffd.js.map",
+    "Cart.2b4b1d0e.chunk.js.map": "/react-ishop/static/js/Cart.2b4b1d0e.chunk.js.map",
+    "FullItem.05d302c6.chunk.js.map": "/react-ishop/static/js/FullItem.05d302c6.chunk.js.map",
+    "683.51be6543.chunk.css.map": "/react-ishop/static/css/683.51be6543.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/css/main.41731703.css",
+    "static/js/main.d48cdffd.js"
+  ]
+}
