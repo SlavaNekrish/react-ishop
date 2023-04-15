@@ -1,0 +1,542 @@
+[
+  {
+    "id": "10",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/balloonsitacademy.appspot.com/o/readySet1.webp?alt=media&token=19467fee-ddce-4dc7-83aa-96a05795790d",
+    "title": "Фонтан Я люблю тебя",
+    "types": [0, 1],
+    "price": 250,
+    "category": 1,
+    "rating": 3,
+    "description": "В набор входит: 1 баблз с надписью, 3 сердца, 3 с конфетти, 4 латексных шара."
+  },
+  {
+    "id": "11",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/balloonsitacademy.appspot.com/o/readySet2.webp?alt=media&token=4e576f32-68c6-4c3b-a57e-5cf45569b75e",
+    "title": "Фонтан двойной",
+    "types": [0, 1],
+    "price": 390,
+    "category": 1,
+    "rating": 4,
+    "description": "2 фонтана: 3 шара с конфетти, 3 шара золото хром, 4 латексных шара."
+  },
+  {
+    "id": "12",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/balloonsitacademy.appspot.com/o/readySet3.webp?alt=media&token=ff4f3163-f113-4c70-87d7-130cff715e8f",
+    "title": "Фонтан черно-золотой",
+    "types": [0, 1],
+    "price": 310,
+    "category": 1,
+    "rating": 5,
+    "description": "В набор входит: 1 фольгированная звезда, 3 шара с конфетти, 17 латексных шаров."
+  },
+  {
+    "id": "13",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/balloonsitacademy.appspot.com/o/readySet4.webp?alt=media&token=b16f8531-9572-4d1b-9431-ee4b95250be0",
+    "title": "Фонтан свежий",
+    "types": [0, 1],
+    "price": 275,
+    "category": 1,
+    "rating": 6,
+    "description": "В набор входит: 5 фольгированных сердец, 5 розовых шаров, 3 белых, 3 мятных."
+  },
+  {
+    "id": "14",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/balloonsitacademy.appspot.com/o/readySet5.webp?alt=media&token=e4e9aa83-86b8-4d3a-a545-73d6b72c2849",
+    "title": "Фонтан сине-серебряный",
+    "types": [0, 1],
+    "price": 280,
+    "category": 1,
+    "rating": 7,
+    "description": "В набор входит: 3 фольгированные звезды, 7 шаров хром, 2 серебряных шара."
+  },
+  {
+    "id": "15",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/balloonsitacademy.appspot.com/o/readySet6.webp?alt=media&token=c80dc159-4402-4534-9cf9-590494883ab0",
+    "title": "Фонтан фиолетовый",
+    "types": [0, 1],
+    "price": 285,
+    "category": 1,
+    "rating": 5,
+    "description": "В набор входит: 2 звезды, 3 сердца, 4 шара с конфетти, 3 латексных шара."
+  },
+  {
+    "id": "16",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/balloonsitacademy.appspot.com/o/readySet7.webp?alt=media&token=ea301564-15a7-4663-a329-4a7fe496ec04",
+    "title": "Фонтан фиолетовый",
+    "types": [0, 1],
+    "price": 275,
+    "category": 1,
+    "rating": 6,
+    "description": "В набор входит: 5 фольгированных сердец, 1 звезда, 2 шара с конфетти, 4 латексных шара."
+  },
+  {
+    "id": "17",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/balloonsitacademy.appspot.com/o/readySet8.webp?alt=media&token=79a7952a-6056-411d-8f8c-0ba71f438668",
+    "title": "Фонтан фиолетовый",
+    "types": [0, 1],
+    "price": 265,
+    "category": 1,
+    "rating": 7,
+    "description": "В один набор входит: 2 фольгированных шара, 2 конфетти, 3 хром, 1 латексный шар. На фото показано два набора."
+  },
+  {
+    "id": "18",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/balloonsitacademy.appspot.com/o/readySet9.jpg?alt=media&token=a37f9cc2-2084-4e97-a59e-c6d976c8eca3",
+    "title": "Сет море сердец",
+    "types": [0, 1],
+    "price": 300,
+    "category": 1,
+    "rating": 8,
+    "description": "Композиция состоит: фольгированные красные сердца. Количество сердец 20 штук."
+  },
+  {
+    "id": "19",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/balloonsitacademy.appspot.com/o/readySet10.jpg?alt=media&token=79503197-f36c-4b49-8f1d-f4eb33a75414",
+    "title": "Фонтан любовный",
+    "types": [0, 1],
+    "price": 270,
+    "category": 1,
+    "rating": 6,
+    "description": "Композиция состоит: фольгированное сердце с надписью, четыре фольгированных сердца, два шара с конфетти, фольгированная надпись 'Love'."
+  },
+  {
+    "id": "110",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/balloonsitacademy.appspot.com/o/readySet11.webp?alt=media&token=0faa922d-8b80-488b-8502-8f93113a494c",
+    "title": "Фонтан на ДР",
+    "types": [0, 1],
+    "price": 255,
+    "category": 1,
+    "rating": 8,
+    "description": "В набор входит: 2 фонтана из 2 латексных шаров, 4 хром шаров и шар сфера с надписью."
+  },
+  {
+    "id": "111",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/balloonsitacademy.appspot.com/o/readySet12.jpg?alt=media&token=7943c0cb-8c09-4174-8768-03804a850994",
+    "title": "Фонтан жене",
+    "types": [0, 1],
+    "price": 270,
+    "category": 1,
+    "rating": 4,
+    "description": "Композиция состоит: белое фольгированное сердце с надписью, семь фольгированных сердец."
+  },
+  {
+    "id": "112",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/balloonsitacademy.appspot.com/o/readySet13.jpg?alt=media&token=5fea6739-8420-4eb3-a329-37949c09ffe4",
+    "title": "Фонтан капец люблю",
+    "types": [0, 1],
+    "price": 270,
+    "category": 1,
+    "rating": 4,
+    "description": "Композиция состоит: шар с надписью и перьями, семь фольгированных сердец. Количество шаров возможно изменить."
+  },
+  {
+    "id": "113",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/balloonsitacademy.appspot.com/o/readySet14.webp?alt=media&token=949000fc-253a-4603-9cde-cf5fb9a2a42a",
+    "title": "Фонтан золотой ДР",
+    "types": [0, 1],
+    "price": 330,
+    "category": 1,
+    "rating": 7,
+    "description": "В набор входит: 1 шар 90см с конфетти, 3 звезды, 4 шара с конфетти, фонтан из 9 шаров."
+  },
+  {
+    "id": "20",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/balloonsitacademy.appspot.com/o/compBox1.jpg?alt=media&token=3116ba66-3678-48b8-82f6-f24fde92b306",
+    "title": "Коробка ДР любимого",
+    "types": [0, 1],
+    "price": 525,
+    "category": 2,
+    "rating": 8,
+    "description": "Коробка с индивидуальной надписью, 7 латексных шаров: синие и хромированные."
+  },
+  {
+    "id": "21",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/balloonsitacademy.appspot.com/o/compBox2.jpg?alt=media&token=b72309ee-7260-455b-8ac5-a50b846af0f4",
+    "title": "Коробка доченьке",
+    "types": [0, 1],
+    "price": 500,
+    "category": 2,
+    "rating": 5,
+    "description": "Коробка с индивидуальной надписью, 7 латексных шаров: белые и розовые."
+  },
+  {
+    "id": "22",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/balloonsitacademy.appspot.com/o/compBox3.jpg?alt=media&token=20cfca0a-3839-4b3e-8f92-dae71461012e",
+    "title": "Коробка с ДР",
+    "types": [0, 1],
+    "price": 520,
+    "category": 2,
+    "rating": 3,
+    "description": "Коробка с индивидуальной надписью, 5 - латексных шаров, 2 - фольгированные звезды."
+  },
+  {
+    "id": "23",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/balloonsitacademy.appspot.com/o/compBox4.webp?alt=media&token=f06dfc6b-ff26-42ee-aeac-772b280ac577",
+    "title": "Коробка любимой",
+    "types": [0, 1],
+    "price": 510,
+    "category": 2,
+    "rating": 7,
+    "description": "Коробка с надписью, четыре красных латексных шара, пять хромовых шаров."
+  },
+  {
+    "id": "24",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/balloonsitacademy.appspot.com/o/compBox5.webp?alt=media&token=7fde63c5-de60-4a19-be6d-9e868370b65c",
+    "title": "Коробка именная",
+    "types": [0, 1],
+    "price": 515,
+    "category": 2,
+    "rating": 3,
+    "description": "Коробка с индивидуальной надписью, 8 латексных шаров: фиолетовые, хромированные и белые."
+  },
+  {
+    "id": "25",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/balloonsitacademy.appspot.com/o/compBox6.webp?alt=media&token=d72530a3-96e9-4cdd-9bd4-908b46be0882",
+    "title": "Коробка любимому",
+    "types": [0, 1],
+    "price": 550,
+    "category": 2,
+    "rating": 9,
+    "description": "Коробка с индивидуальной надписью, 8 латексных шаров: хромированные, белые и черные."
+  },
+  {
+    "id": "26",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/balloonsitacademy.appspot.com/o/compBox7.webp?alt=media&token=d75944eb-598a-4ab4-8fa0-c831e3dfffd2",
+    "title": "Коробка маме",
+    "types": [0, 1],
+    "price": 505,
+    "category": 2,
+    "rating": 5,
+    "description": "Коробка с индивидуальной надписью, 9 латексных шаров: бордовые, коралловые и бежевые."
+  },
+  {
+    "id": "27",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/balloonsitacademy.appspot.com/o/compBox8.webp?alt=media&token=4b8c231e-862b-4acf-9e4c-d859f33721fe",
+    "title": "Коробка чике",
+    "types": [0, 1],
+    "price": 535,
+    "category": 2,
+    "rating": 6,
+    "description": "Коробка с индивидуальной надписью, 9 латексных шаров с надписями: розовые, белые, черные и прозрачные."
+  },
+  {
+    "id": "28",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/balloonsitacademy.appspot.com/o/compBox9.jpg?alt=media&token=143029dd-c2e9-4777-8c6c-8a18dc14a150",
+    "title": "Коробка с ДР стильная",
+    "types": [0, 1],
+    "price": 540,
+    "category": 2,
+    "rating": 7,
+    "description": "Коробка с индивидуальной надписью, 9 латексных шаров с надписями: черные, хром и бордовые."
+  },
+  {
+    "id": "29",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/balloonsitacademy.appspot.com/o/compBox10.jpg?alt=media&token=d6590afb-973d-4e65-9b48-027b82c96d32",
+    "title": "Коробка чудес именная",
+    "types": [0, 1],
+    "price": 510,
+    "category": 2,
+    "rating": 3,
+    "description": "Коробка с индивидуальной надписью, 7 латексных больших шаров с надписями: золотистые и бордовые."
+  },
+  {
+    "id": "210",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/balloonsitacademy.appspot.com/o/compBox11.webp?alt=media&token=52f200b2-672f-4fc9-8c4c-a632a7678dfc",
+    "title": "Коробка ДР девочки",
+    "types": [0, 1],
+    "price": 565,
+    "category": 2,
+    "rating": 4,
+    "description": "Коробка с индивидуальной надписью, 9 латексных больших шаров с надписями: светло-розовые и темно-розовые. Шар в форме единорога"
+  },
+  {
+    "id": "211",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/balloonsitacademy.appspot.com/o/compBox12.webp?alt=media&token=13936adc-2b0d-4775-a63f-b4997aeb03f1",
+    "title": "Коробка большая ДР",
+    "types": [0, 1],
+    "price": 610,
+    "category": 2,
+    "rating": 2,
+    "description": "Коробка 'с Днем Рождения', 15 латексных шаров с надписями: золотистые, светло-розовые, медные"
+  },
+  {
+    "id": "212",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/balloonsitacademy.appspot.com/o/compBox13.jpg?alt=media&token=5acb07ab-fd44-4062-8d75-1b561b5af306",
+    "title": "Коробка малая любимому",
+    "types": [0, 1],
+    "price": 450,
+    "category": 2,
+    "rating": 9,
+    "description": "Коробка с индивидуальной надписью, 4 латексных больших шаров с надписями: синие и серебристые"
+  },
+  {
+    "id": "30",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/balloonsitacademy.appspot.com/o/compWithNumb1.jpg?alt=media&token=341d74b3-cec7-496c-a43c-3f28f705a2fa",
+    "title": "Композиция на 2 года",
+    "types": [0, 1],
+    "price": 320,
+    "category": 3,
+    "rating": 4,
+    "description": "Композиция на два годика для мальчика. Состоит из фольгированной большой цифры два, фонтана из четырёх латексных шаров, двух шаров с конфетти и фольгированной звезды."
+  },
+  {
+    "id": "31",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/balloonsitacademy.appspot.com/o/compWithNumb5.jpg?alt=media&token=d3465560-acda-4d46-a4e3-7be67d8c9e55",
+    "title": "Первый юбилей",
+    "types": [0, 1],
+    "price": 370,
+    "category": 3,
+    "rating": 6,
+    "description": "Композиция состоит: фольгированная цифра '5' (высота 1 метр), 7 латексных шаров, два шара серии 'Агат', два шара серии 'Хром', фольгированное сердце, фольгированная звезда."
+  },
+  {
+    "id": "32",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/balloonsitacademy.appspot.com/o/compWithNumb12.jpg?alt=media&token=590aa0fa-a794-41a2-a23c-f8130b56dd88",
+    "title": "'Сладкие 12' композиция",
+    "types": [0, 1],
+    "price": 350,
+    "category": 3,
+    "rating": 4,
+    "description": "Композиция состоит: латексный шар 45 см., с конфетти и надписью, две фольгированные звезды, два фольгированных сердца, два шара с конфетти, два шара серии 'Хром', четыре чёрных латексных шара."
+  },
+  {
+    "id": "33",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/balloonsitacademy.appspot.com/o/compWithNumb4.jpg?alt=media&token=582419fd-4aba-47f2-9f79-bc63e1be1acb",
+    "title": "Сет на 4х летие",
+    "types": [0, 1],
+    "price": 310,
+    "category": 3,
+    "rating": 2,
+    "description": "Композиция состоит: латексный шар 45 см., с конфетти и надписью, две фольгированные звезды, два фольгированных сердца, два шара с конфетти, два шара серии 'Хром', четыре чёрных латексных шара."
+  },
+  {
+    "id": "34",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/balloonsitacademy.appspot.com/o/compWithNumb2.jpg?alt=media&token=e2f3165d-494c-43c7-9309-f8d33f52eae0",
+    "title": "Джунгли зовут",
+    "types": [0, 1],
+    "price": 415,
+    "category": 3,
+    "rating": 8,
+    "description": "Композиция состоит: цифра 2 на воздушной подставке с мини фигурами. Наполнение воздух или гелий на выбор. Шесть латексных шаров. Цифра может быть изменена."
+  },
+  {
+    "id": "35",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/balloonsitacademy.appspot.com/o/compWithNumb18.jpg?alt=media&token=22e3bf18-53b3-4503-a88b-e4f4263cf2ae",
+    "title": "Совершеннолетие",
+    "types": [0, 1],
+    "price": 490,
+    "category": 3,
+    "rating": 2,
+    "description": "Композиция состоит: две фольгированные цифры, четыре шара 'Хром', четыре шара с конфетти, 5 шаров металлик."
+  },
+  {
+    "id": "36",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/balloonsitacademy.appspot.com/o/compWithNumb1.1.jpg?alt=media&token=d1e27ee3-9e30-4ead-8fd9-fb8a942cd0b3",
+    "title": "Для близняшек",
+    "types": [0, 1],
+    "price": 490,
+    "category": 3,
+    "rating": 9,
+    "description": "Композиция состоит: фольгированная цифра, две фольгированных звезды, четыре латексных шара с надписью, 12 разноцветных латексных шаров."
+  },
+  {
+    "id": "37",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/balloonsitacademy.appspot.com/o/compWithNumb8.jpg?alt=media&token=e1741657-912e-4b90-846f-57eda371382b",
+    "title": "Сет на 8 лет",
+    "types": [0, 1],
+    "price": 520,
+    "category": 3,
+    "rating": 10,
+    "description": "Композиция состоит: цифра 8 на подставке ( наполнение воздух или гелий на выбор), 16 латексных шаров, две фольгированных звезды. "
+  },
+  {
+    "id": "38",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/balloonsitacademy.appspot.com/o/compWithNumb16.jpg?alt=media&token=e672f664-5eb1-4a3d-a534-9c747c3a42de",
+    "title": "Композиция на 16 лет",
+    "types": [0, 1],
+    "price": 355,
+    "category": 3,
+    "rating": 10,
+    "description": "Композиция состоит: две фольгированные цифры, прозрачный шар с индивидуальной надписью и наполнением, шесть фольгированных звёзд, шесть шаров серии Хром."
+  },
+  {
+    "id": "39",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/balloonsitacademy.appspot.com/o/compWithNumb6.jpg?alt=media&token=5db93465-513c-491e-a303-d6729ceeefcd",
+    "title": "Сет на 6 лет",
+    "types": [0, 1],
+    "price": 285,
+    "category": 3,
+    "rating": 7,
+    "description": "Цифра 'Шесть' розовое золото в композиции с латексными шариками в количестве 9 штук."
+  },
+  {
+    "id": "310",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/balloonsitacademy.appspot.com/o/compWithNumb8march.webp?alt=media&token=607c7c57-e37d-4697-9325-e492ed6c1ebd",
+    "title": "Сет на 8 марта",
+    "types": [0, 1],
+    "price": 400,
+    "category": 3,
+    "rating": 8,
+    "description": "1 цифра, фонтан из 7 фольгированных сердец, 3 шара с конфетти и 5 латексных шаров"
+  },
+  {
+    "id": "311",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/balloonsitacademy.appspot.com/o/compWithNumb2019.webp?alt=media&token=0c86ff61-4c83-4a92-ad0c-515194a4be26",
+    "title": "Сет на выпускной",
+    "types": [0, 1],
+    "price": 640,
+    "category": 3,
+    "rating": 5,
+    "description": "В набор входит: 4 стойки с цифрой, 6 простых и 6 с надписью фольгированных шаров"
+  },
+  {
+    "id": "312",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/balloonsitacademy.appspot.com/o/compWithNumb18.2.jpg?alt=media&token=19232a1b-42c8-4fc9-9a3a-d6a4b5b466d3",
+    "title": "Сет 18 мне уже",
+    "types": [0, 1],
+    "price": 475,
+    "category": 3,
+    "rating": 7,
+    "description": "Композиция состоит: два латексных сердца, четыре розовых шара, два шара с конфетти."
+  },
+  {
+    "id": "313",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/balloonsitacademy.appspot.com/o/compWithNumb20.jpg?alt=media&token=24df52f7-345f-4d05-8c75-c2e452bd6da3",
+    "title": "Сет на 20-летие",
+    "types": [0, 1],
+    "price": 415,
+    "category": 3,
+    "rating": 4,
+    "description": "Композиция состоит: две золотые цифры, три бордовых шара в форме сердца."
+  },
+  {
+    "id": "40",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/balloonsitacademy.appspot.com/o/arka1.jpg?alt=media&token=adbf1f21-ce4a-4f84-801d-bc6ff8e4b932",
+    "title": "На открытие кафе",
+    "types": [0, 1],
+    "price": 510,
+    "category": 4,
+    "rating": 5,
+    "description": "Арка из шаров трёхцветная с преимуществом красного цвета. Используются шары итальянской компании 'Gemar'. Размеры под заказ. Доставка и монтаж."
+  },
+  {
+    "id": "41",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/balloonsitacademy.appspot.com/o/arka2.jpg?alt=media&token=8516e8f1-9fde-4450-9696-e67d4c45aecf",
+    "title": "На День Рождения",
+    "types": [0, 1],
+    "price": 480,
+    "category": 4,
+    "rating": 7,
+    "description": "Разноколиберная гирлянда из воздушных шаров для оформления фотозоны. Гирлянда состоит из латексных разноцветных шаров импортного производства разного диаметра. По Вашему желанию длинна гирлянды и цвета могут быть изменены."
+  },
+  {
+    "id": "42",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/balloonsitacademy.appspot.com/o/arka3.jpg?alt=media&token=c21a389d-a6e9-47ee-a225-538ae6f0c506",
+    "title": "Входная",
+    "types": [0, 1],
+    "price": 500,
+    "category": 4,
+    "rating": 8,
+    "description": "Вертикальная двухцветная гирлянда на входную группу из калиброванных латексных шаров. Высота гирлянды по желанию."
+  },
+  {
+    "id": "43",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/balloonsitacademy.appspot.com/o/arka4.jpg?alt=media&token=ab299e3c-00c9-4dff-88aa-d931c79b2298",
+    "title": "Разноколиберная",
+    "types": [0, 1],
+    "price": 460,
+    "category": 4,
+    "rating": 6,
+    "description": "Разнокалиберная гирлянда из воздушных и фольгированных шаров. В гирлянде использованы разноцветные латексные шары, шары-гиганты, фольгированные шары в виде 'Звезды'."
+  },
+  {
+    "id": "44",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/balloonsitacademy.appspot.com/o/arka5.jpg?alt=media&token=c5d07857-654b-4e61-90ae-0d004b881cf9",
+    "title": "Агатовая",
+    "types": [0, 1],
+    "price": 440,
+    "category": 4,
+    "rating": 3,
+    "description": "Ранокалиберная арка из воздушных шаров. Состоит из: шары - гиганты серии 'Агат', разноцветные латексные шары, латексные шары с конфетти. Длинна арки регулируется по Вашему желанию."
+  },
+  {
+    "id": "45",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/balloonsitacademy.appspot.com/o/arka6.jpg?alt=media&token=0a219bbf-8c49-42d8-a42d-469a9e27dae4",
+    "title": "Макаруновая",
+    "types": [0, 1],
+    "price": 460,
+    "category": 4,
+    "rating": 4,
+    "description": "Разнокалиберная арка из латексных разноцветных шаров серии 'Макарон' с мини шарами в виде звезд. Стоимость указана за метр погонный."
+  },
+  {
+    "id": "46",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/balloonsitacademy.appspot.com/o/arka7.jpg?alt=media&token=506c146c-aec8-491a-a311-6541bd296e72",
+    "title": "Для фотозоны",
+    "types": [0, 1],
+    "price": 420,
+    "category": 4,
+    "rating": 4,
+    "description": "Арка разнокалиберная из латексных шаров. Размер регулируется."
+  },
+  {
+    "id": "47",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/balloonsitacademy.appspot.com/o/arka8.jpg?alt=media&token=9c9fc0e5-7df3-4446-97b8-163d5f8e54d1",
+    "title": "На открытие магазина",
+    "types": [0, 1],
+    "price": 435,
+    "category": 4,
+    "rating": 7,
+    "description": "Трёхцветная гирлянда из шаров на открытие магазина, кафе и других заведений. Гирлянда изготовлена из латексных шаров производства итальянской компании 'Gemar'."
+  },
+  {
+    "id": "48",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/balloonsitacademy.appspot.com/o/arka9.webp?alt=media&token=a38d1379-e092-4304-85ac-75f569456b61",
+    "title": "На открытие ресторана",
+    "types": [0, 1],
+    "price": 475,
+    "category": 4,
+    "rating": 5,
+    "description": "Четырехцветная гирлянда из шаров на открытие магазина, кафе и других заведений. Гирлянда изготовлена из латексных шаров."
+  },
+  {
+    "id": "49",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/balloonsitacademy.appspot.com/o/arka10.webp?alt=media&token=2db4ef51-6cc0-422f-8cce-9d86bdf08dba",
+    "title": "Колонна из шаров",
+    "types": [0, 1],
+    "price": 465,
+    "category": 4,
+    "rating": 8,
+    "description": "Разнокалиберная колонна из шаров на подставке с бутылкой, высотой 2 метра"
+  },
+  {
+    "id": "410",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/balloonsitacademy.appspot.com/o/arka11.webp?alt=media&token=9603f81f-1c0e-418a-a495-894b6f17a9c6",
+    "title": "Арка для входа",
+    "types": [0, 1],
+    "price": 480,
+    "category": 4,
+    "rating": 5,
+    "description": "Разнокалиберная гирлянда 4,5 метра, для оформления входной группы для улицы"
+  },
+  {
+    "id": "411",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/balloonsitacademy.appspot.com/o/arka12.webp?alt=media&token=cb2cf1b9-e37e-4e72-95b7-0946aaa6cd48",
+    "title": "Для магазина в ТЦ",
+    "types": [0, 1],
+    "price": 420,
+    "category": 4,
+    "rating": 6,
+    "description": "Стандартное плетение шаров. Трёхцветная колонна для оформления магазинов в торговых центрах."
+  },
+  {
+    "id": "412",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/balloonsitacademy.appspot.com/o/arka13.webp?alt=media&token=957666e7-13f2-4772-bbaa-a437ae69d2b0",
+    "title": "Свадебная арка",
+    "types": [0, 1],
+    "price": 470,
+    "category": 4,
+    "rating": 7,
+    "description": "Разноколиберная гирлянда из шаров в технике «дабл стафф» 8 метров."
+  }
+]
