@@ -6,14 +6,14 @@ import { useParams, useNavigate } from 'react-router-dom';
 import { addItem, selectCartItemById } from '../redux/slices/cartSlicee';
 import { selectItemData, getItemsForSlider } from '../redux/slices/itemSlice';
 import { Slider } from '../components/Slider';
-import { useResize } from '../components/useResize/useResize';
+import { useResize } from '../utils/useResize/useResize';
 
 const FullItem = () => {
   const dispatch = useDispatch();
   const [item, setItem] = useState();
   const { items } = useSelector(selectItemData);
   const { id } = useParams();
-  const { isScreenMomile, isScreenSm, isScreenMd, isScreenLg, isScreenXl } = useResize();
+  const { isScreenMomile, isScreenMd, isScreenLg } = useResize();
 
   const navigate = useNavigate();
 

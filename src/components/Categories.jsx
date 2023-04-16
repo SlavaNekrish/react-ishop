@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import ToolTipStyled from './ToolTipStyled';
 
 export const catArr = [
@@ -29,11 +30,13 @@ export const catArr = [
 const Categories = React.memo(({ value, onChangeCategory }) => {
   const categories = catArr.map((category) => (
     <ToolTipStyled title={category.TtFraze} enterDelay={2000} leaveDelay={0} key={category.code}>
-      <li
-        onClick={() => onChangeCategory(category.code)}
-        className={value === category.code ? 'active' : ''}>
-        {category.name}
-      </li>
+      <Link to={'/' + category.name}>
+        <li
+          onClick={() => onChangeCategory(category.code)}
+          className={value === category.code ? 'active' : ''}>
+          {category.name}
+        </li>
+      </Link>
     </ToolTipStyled>
   ));
 

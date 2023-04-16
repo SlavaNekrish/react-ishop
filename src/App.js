@@ -1,11 +1,9 @@
 import React, { Suspense } from 'react';
-import './scss/app.scss';
 import { Routes, Route } from 'react-router-dom';
-import { useState } from 'react';
-
 import Home from './pages/Home';
 import NotFound from './pages/NotFound';
 import MainLayout from './layouts/MainLayout';
+import './scss/app.scss';
 
 const Cart = React.lazy(() => import(/* webpackChunkName: "Cart" */ './pages/Cart'));
 const FullItem = React.lazy(() => import(/* webpackChunkName: "FullItem" */ './pages/FullItem'));
@@ -15,6 +13,7 @@ function App() {
     <Routes>
       <Route path="/" element={<MainLayout />}>
         <Route path="" element={<Home />} />
+        <Route path="/:category" element={<Home />} />
         <Route
           path="cart"
           element={
