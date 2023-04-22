@@ -1,5 +1,6 @@
 import React, { useEffect, useCallback } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
+import { useParams } from 'react-router-dom';
 
 import { Categories, Sort, BalloonBlock, Skeleton, Pagination, BackToTop } from '../components';
 import { catArr } from '../components/Categories';
@@ -11,6 +12,7 @@ import Toolbar from '@mui/material/Toolbar';
 
 const Home = () => {
   const dispatch = useDispatch();
+  const { category = 0 } = useParams();
 
   const { items, status } = useSelector(selectItemData);
   const { categoryId, sort, currentPage, searchValue } = useSelector(selectFilter);
@@ -45,6 +47,10 @@ const Home = () => {
     getItems();
   }, [categoryId, sort.sortProp, searchValue, currentPage]);
 
+  useEffect(() => {
+    if (category !== '') onChangeCategory(category);
+  }, [category]);
+
   const balloons = items.map((el) => (
     <React.Fragment key={el.id}>
       <BalloonBlock {...el} />
@@ -57,7 +63,7 @@ const Home = () => {
     <div className="container">
       {' '}
       <div className="content__top">
-        <Categories value={categoryId} onChangeCategory={onChangeCategory} />
+        <Categories value={Number(categoryId)} />
         <Sort value={sort} />
       </div>
       <h2 className="content__title">Главная / {catArr[categoryId].name}</h2>
