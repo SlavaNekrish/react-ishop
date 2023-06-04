@@ -13,7 +13,9 @@ function App() {
     <Routes>
       <Route path="/" element={<MainLayout />}>
         <Route path="" element={<Home />} />
-        <Route path="/:category" element={<Home />} />
+        <Route path="/:category" element={<Home />}>
+          <Route path=":sortParam" element={<Home />} />
+        </Route>
         <Route
           path="cart"
           element={

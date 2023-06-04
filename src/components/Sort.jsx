@@ -1,8 +1,7 @@
-import React from 'react';
-
-import { useState, useRef } from 'react';
-import { useDispatch } from 'react-redux';
-import { setSort } from '../redux/slices/filterSlice';
+import React, { useState, useRef } from 'react';
+import { Link, useParams } from 'react-router-dom';
+import { useDispatch, useSelector } from 'react-redux';
+import { setSort, selectFilter } from '../redux/slices/filterSlice';
 import { useEffect } from 'react';
 
 const listArr = [
@@ -17,6 +16,8 @@ const listArr = [
 const Sort = React.memo(({ value }) => {
   const dispatch = useDispatch();
   const sortRef = useRef();
+  const { categoryId } = useSelector(selectFilter);
+  const { sortParam = 0 } = useParams();
 
   const [isVisible, setOpen] = useState(false);
 
@@ -36,13 +37,18 @@ const Sort = React.memo(({ value }) => {
     return () => document.body.removeEventListener('click', handleClickOutside);
   }, []);
 
+  useEffect(() => {
+    if (sortParam !== '') onClickSelectedItem(listArr[sortParam]);
+  }, [sortParam]);
+
   const list = listArr.map((obj) => (
-    <li
-      onClick={() => onClickSelectedItem(obj)}
-      className={value.sortProp === obj.sortProp ? 'active' : ''}
-      key={obj.code}>
-      {obj.name}
-    </li>
+    <Link to={'/' + categoryId + '/' + obj.code} key={obj.code}>
+      <li
+        onClick={() => onClickSelectedItem(obj)}
+        className={value.sortProp === obj.sortProp ? 'active' : ''}>
+        {obj.name}
+      </li>
+    </Link>
   ));
 
   return (
